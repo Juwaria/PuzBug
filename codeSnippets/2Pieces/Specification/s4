@@ -1,0 +1,1 @@
+The given code is to concatenate 2 strings (both of which are passed as arguments by the user). The line 'return e;' returns the concatenated string. Fix the error in the code.

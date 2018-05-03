@@ -1,0 +1,4 @@
+Given an array nums, the given code must move all 0's to the end of it 
+while maintaining the relative order of the non-zero elements. 
+For example, given nums = [0, 3, 0, 10, 7], after executing your code, 
+nums should be [3, 10, 7, 0, 0].

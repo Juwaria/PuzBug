@@ -1,0 +1,1 @@
+Given an array 'digits', the given code must increment each digit by 1. For example, given digits = [1,5,6,7,9], after executing your code, digits should be [2,6,7,8,10].
