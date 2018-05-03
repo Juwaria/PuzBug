@@ -1,0 +1,8 @@
+<project default="compile">
+ <target name="compile">
+     <javac srcdir="puzBug" destdir="puzBug" includeantruntime="false"  />
+    </target>
+	<target name="run" depends="compile">
+     <java classname="GuiMain" fork="true" classpath="src/" />
+    </target>
+</project>
